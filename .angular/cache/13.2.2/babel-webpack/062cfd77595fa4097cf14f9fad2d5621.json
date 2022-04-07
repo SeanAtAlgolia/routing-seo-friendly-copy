@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { withInsights } from '../../lib/insights';\nimport connectInfiniteHits from './connectInfiniteHits';\nvar connectInfiniteHitsWithInsights = withInsights(connectInfiniteHits);\nexport default connectInfiniteHitsWithInsights;","map":null,"metadata":{},"sourceType":"module"}

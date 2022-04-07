@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { withInsights } from '../../lib/insights';\nimport connectHits from './connectHits';\nvar connectHitsWithInsights = withInsights(connectHits);\nexport default connectHitsWithInsights;","map":null,"metadata":{},"sourceType":"module"}
